@@ -22,6 +22,15 @@ page 1 (
             sequence: 10
         }
     )
+
+    region RoopeshTest (
+        name: Roopesh_DEMO
+        type: staticContent
+        layout {
+            slot: BODY
+            sequence: 10
+        }
+    )
     region apex-crm (
         name: APEX CRM
         type: staticContent
